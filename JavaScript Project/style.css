@@ -1,0 +1,81 @@
+
+body{
+    background-color: #faf9f8;
+    box-sizing: border-box;
+}
+
+footer{
+    background-color: #e8e8e8e9;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+}
+
+.nav-link:hover{
+    text-decoration: underline red;
+    opacity: .7;
+
+
+}
+.carousel-item{
+    background-position: center;
+    background-size: cover;
+
+}
+#trendh{
+    color: rgb(195, 6, 6);
+    font-weight: 800;
+    font-family: 'satisfy', 'Arial Narrow', Arial, sans-serif;
+}
+#summer{
+    background-image: url(./images/summer2.png);
+    background-size: cover;
+    height: 50rem;
+   
+}
+
+
+#summerh{
+    margin-top: 30rem;
+    font-size: 32px;
+    font-weight: 800;
+    color: #faf9f8;
+   
+}
+#summerp{
+    font-size: 18px;
+    color: antiquewhite;
+   
+}
+.categoryp:hover{
+    font-weight: 600;
+
+}
+#magazine{
+    background-color: bisque;
+}
+#categoryh{
+    font-weight: 800;
+    font-family:   'Ubuntu' ,sans-serif;
+}
+#magazineh{
+    font-weight: 800;
+    color: rgb(66, 45, 117);
+}
+/* ----------------------------- */
+.aside{
+    background-color: rgb(93, 22, 90);
+    
+}
+.card{
+    display:inline-block !important;
+    height: min-content;
+
+}
+.aaside{
+    color: blanchedalmond;
+    font-family:  'Ubuntu', sans-serif;
+    margin-top: 2rem;
+}
+.aaside:hover{
+    color:  rgb(210, 196, 175);
+}
